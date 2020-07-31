@@ -16,7 +16,6 @@ function install_tools () {
 
 function install_functional_apps () {
     brew cask install cheatsheet
-    brew cask install docker
     brew cask install dropbox
     brew cask install mactex
 }
