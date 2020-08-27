@@ -35,3 +35,8 @@ manage plugins. Install some really cool vim color schemes
    for vim that we all need.
 1. [Git Gutter](https://github.com/airblade/vim-gitgutter): Show git diff
    markers like changes, additions, etc to your files.
+
+## References ##
+
+Logo taken from 
+[here](https://www.twilio.com/blog/using-dotfiles-productivity-bootstrap-systems)
