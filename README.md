@@ -1,17 +1,13 @@
 <p align="center">
     <img src="assets/logo.png" alt="Dotfiles"
-    height="25%" width="25%">
+    height="25%" width="40%">
 </p>
 
-<h2 align="center">
-    :computer: `~/.dotfiles` :computer:
-</h2>
 
 My personal configuration files for easy set up across machines. If you see 
 something interesting in my dotfiles or want to just use these entirely go ahead
 and do so! I haven't written up installation instructions because this is for my
 personal use but maybe I'll write them up when I get more time :smile:
-
 
 ## Vim ##
 
